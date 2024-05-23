@@ -1,7 +1,7 @@
 # Classificação De Níveis de Personagens 🦸🏻‍♂️
 
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/c1/d2/e5/c1d2e5b38e1d38dbc2621f157465ce71.gif" alt="Imagem">
+  <img align="center" src="https://github.com/SerAnonimo01/Heroi/assets/168775836/7f53b9b8-8669-4c69-ae85-b1152044788e" alt="Imagem">
 </p>
 
 
